@@ -50,11 +50,11 @@ plik,polskie tlumaczenie,gothic tlumaczenie
 2sound_appoint_corner_clean_start,"Zaplanowane czyszczenie wzd?u? kraw?dzi, rozpoczyna si?.",
 30sound_power_on,W??czanie.,Czuj? si?? Czuj? si? jakbym kilka tygodni le?a? pod stert? g?azów.
 31sound_I_am_here,Jestem tutaj!,
-32sound_dust_box_take_out,"Pojemnik na kurz, zosta? usuni?ty.",
-33sound_dia_box_take_out,"Pojemnik na kurz 2w1 ze zbiornikiem na wod? zosta? usuni?ty. Nie nale?y go p?uka?, ani zanu?a? w wodzie.",
+32sound_dust_box_take_out,"Pojemnik na kurz, zosta? usuni?ty.",Oddawaj moje zloto!
+33sound_dia_box_take_out,"Pojemnik na kurz 2w1 ze zbiornikiem na wod? zosta? usuni?ty. Nie nale?y go p?uka?, ani zanu?a? w wodzie.",Od tej pory mozesz sam sobie biegac z ta woda.
 34sound_water_box_take_out,"Zbiornik na wod? zosta? usuni?ty. Nie nale?y go p?uka?, ani zanu?a? w wodzie.",
-35sound_dust_box_installed,Pojemnik na kurz zosta? zamontowany.,
-36sound_dia_box_installed,"Pojemnik na kurz 2w1 ze zbiornikiem na wod?, zosta? zamontowany.",
+35sound_dust_box_installed,Pojemnik na kurz zosta? zamontowany.,Masz szczescie
+36sound_dia_box_installed,"Pojemnik na kurz 2w1 ze zbiornikiem na wod?, zosta? zamontowany.",Przysyla mnie Lewus. Przynioslem ci troche wody.
 37sound_water_box_installed,Zbiornik na wod? zosta? zamontowany.,
 38sound_remove_mopping,Zdementuj wk?ad mopa.,
 39sound_reset_factory_config,Zostan? przywrócone ustawienia fabryczne.,
